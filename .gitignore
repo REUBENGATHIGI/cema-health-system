@@ -1,0 +1,33 @@
+﻿# Python cache & bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# Flask instance folder & SQLite DB
+instance/
+*.db
+
+# IDE settings
+.vscode/
+.vs/
+
+# Old/demo directories & scripts you don't want in Git
+hospital-information-system/
+auth.py
+config.py
+init_db.py
+services.py       # if this is legacy
+routes/           # legacy folder
+test_api.ps1
+test_app.py
+verify_db.py
+
+# Flask CLI env file
+.flaskenv
+
+# OS junk
+.DS_Store
+Thumbs.db
