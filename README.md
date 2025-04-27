@@ -59,3 +59,16 @@ Flask-Marshmallow
 Marshmallow 3.26
 SQLite 3.13
 Python 3.13
+
+
+✅ Documentation & Evidence:
+
+GitHub Repository with README, Code, and Release
+
+v1.0.0 Release includes:
+
+Prototype Presentation (REUBEN_PRESENTATION.pptx)
+
+Evidence Screenshots of API Outputs
+
+Full Test Scripts
