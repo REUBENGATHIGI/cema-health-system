@@ -1,4 +1,4 @@
-# 🚀 CEMA Health Information System
+# CEMA Health Information System
 
 This project is a secured, modular, and innovative health information system built with Flask, SQLAlchemy, and Marshmallow, designed for CEMA.  
 It allows management of Clients, Programs, and Enrollments with strong security protections and modern innovations.
