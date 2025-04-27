@@ -5,16 +5,16 @@ It allows management of Clients, Programs, and Enrollments with strong security 
 
  Features
 
-- ✅ Client Registration and Management
-- ✅ Program Creation and Listing
-- ✅ Client Enrollment into Programs
-- ✅ Dynamic Search for Clients by Name
-- ✅ API Key Authorization for all Endpoints
-- ✅ Automatic Database Setup (SQLite)
-- ✅ Blueprint Modular Structure (Clean code)
-- ✅ Marshmallow Schema Validation
-- ✅ Full support for Python 3.13 + SQLite 3.13
-- ✅ Easily extensible and scalable system
+-  Client Registration and Management
+-  Program Creation and Listing
+-  Client Enrollment into Programs
+-  Dynamic Search for Clients by Name
+-  API Key Authorization for all Endpoints
+- Automatic Database Setup (SQLite)
+-  Blueprint Modular Structure (Clean code)
+- Marshmallow Schema Validation
+-  Full support for Python 3.13 + SQLite 3.13
+-  Easily extensible and scalable system
 
 ---
 
@@ -61,7 +61,7 @@ SQLite 3.13
 Python 3.13
 
 
-✅ Documentation & Evidence:
+ Documentation & Evidence:
 
 GitHub Repository with README, Code, and Release
 
